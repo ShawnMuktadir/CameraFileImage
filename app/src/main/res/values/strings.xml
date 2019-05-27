@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CameraFileImage</string>
+    <string name="capture_image">Select or Capture Image</string>
+</resources>
